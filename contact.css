@@ -1,0 +1,99 @@
+@import url("//cdn.web-fonts.ge/fonts/dejavu-sans/css/dejavu-sans.min.css");
+
+.image {
+    display: inline-block;
+} 
+li {
+    font-family: FiraGO;
+    font-size: 26px;
+    font-weight: 700;
+    padding-left: 100px;
+    display: inline-block;
+    
+
+}
+.a {
+    color: #8D81FF;
+}
+.a1 {
+    color: #5012D5;
+}
+
+
+nav {
+    display: inline-block;
+}
+header {
+    padding-top: 20px;
+}
+
+.contact {
+    width: 1660px;
+    height: 735px;
+    background-color: #E7E7E7;
+    margin-top: 40px;
+    margin-bottom: 30px;
+
+
+}
+h1 {
+    font-family: Helvetica Neue;
+    font-size: 36px;
+    font-weight: 700;
+    color: #4E6FAE;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+p {
+    font-family: "DejaVu Sans", sans-serif;
+    font-size: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+    
+   
+
+}
+  .address {
+    font-size: 20px;
+    font-weight: 400;
+   
+  
+     
+
+
+} 
+iframe {
+    width: 900pxpx;
+    height: 700pxpx;
+    display: inline-block;
+    padding-right: 10px;
+
+
+}
+
+
+
+
+
+
+
+
+.fb {
+    width: 50px;
+    height: 50px;
+    margin-left: 20px;
+    
+
+}
+.line {
+    color: #5012D5;
+    width: 2px;
+    margin-left: 20px;
+    margin-right: 20px;
+
+
+}
+.youtube {
+    width: 70px;
+    height: 50px;
+}

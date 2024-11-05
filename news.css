@@ -1,0 +1,141 @@
+@import url("//cdn.web-fonts.ge/fonts/bpg-sans/css/bpg-sans.min.css");
+@import url("//cdn.web-fonts.ge/fonts/bpg-extrasquare-mtavruli/css/bpg-extrasquare-mtavruli.min.css");
+.image {
+    display: inline-block;
+    margin-left: 10px ;
+}
+li {
+    letter-spacing: 3px;
+    font-size: 26px;
+    font-weight: 700;
+    padding-left: 100px;
+    display: inline-block;
+    
+
+}
+.a {
+    color: #8D81FF;
+}
+.a1 {
+    color: #5012D5;
+}
+
+
+nav {
+    display: inline-block;
+}
+header {
+    padding-top: 20px;
+}
+
+.div1 {
+    background-color: #5012D5;
+    width: 50px;
+    height: 50px;
+}
+.p {
+    font-family: "Gugeshashvili_Rachveli", sans-serif;
+    font-size: 24px;
+    color: #8D81FF;
+    letter-spacing: 3px;
+  
+}
+.p2 {
+    width: 30px;
+    height: 35px;
+    color: #84FF81 ;
+    padding-left: 15px;
+    padding-top: 15px;
+    margin-top: 20px;
+}
+
+
+main {
+    margin-left: 10px;
+}
+h1 {
+    font-family: "BPG ExtraSquare Mtavruli", sans-serif;
+    letter-spacing: 2px ;
+    font-size: 20px;
+    font-weight: 700;
+    color: #4E6FAE;
+    margin-top: 10px ;
+    margin-bottom: 20px;
+  
+       
+}
+
+.div2 {
+    padding: 20px;
+}
+.img2 {
+    width: 450px;
+    height: 280px;
+    display: inline-block;
+
+
+}
+#p {
+    width: 780px;
+    height: 280px;
+    font-family: "BPG Sans", sans-serif;
+    line-height: 25px;
+    text-indent: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    display: inline-block;
+    color: #4E6FAE;
+    padding-left: 30px;
+    padding-bottom: 50px;
+
+}
+
+.img2 {
+    width: 447px;
+    height: 280px;
+    display: inline-block;
+}
+
+#p2 {
+    font-family: "BPG Sans", sans-serif;
+    line-height: 32px;
+    text-indent: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #4E6FAE;
+    display: inline-block;
+    width: 778px;
+    height: 280px;
+    padding-left: 20px;
+  
+    
+
+}
+.div3 {
+     height: 300px;
+     margin-bottom: 80px;
+}
+
+#img3 {
+    width: 447px;
+    height: 280px;
+    display: inline-block;
+}
+#p3 {
+    width: 780px;
+    height: 280px;
+    display: inline-block;
+    font-family: "BPG Sans", sans-serif;
+    line-height: 37px;
+    text-indent: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    color: #4E6FAE
+  
+}
+.line {
+    
+    color: #5012D5;
+    margin-left: 20px;
+    margin-right: 18px;
+}
